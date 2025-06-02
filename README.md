@@ -1,6 +1,9 @@
 # DSRTER
 Dual Stream Real Time Facial Emotion Recognition Leveraging Facial Features and Speech Embeddings 
 
+Tech Stack 
+Python, VS Code, Google Collab, Web Cam, Mic
+
 Project Overview
 
 The need for intelligent human-computer interaction systems has grown rapidly, especially those capable of understanding human emotions. This project proposes a dual-stream real-time emotion recognition system that classifies seven basic emotions—Happy, Sad, Angry, Neutral, Surprise, Disgust, and Fear—by combining facial expression analysis and speech-based emotion detection.
